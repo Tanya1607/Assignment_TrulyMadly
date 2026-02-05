@@ -24,7 +24,6 @@ A multi-agent AI system designed to handle natural language tasks by planning, e
 1. **Clone the repository**:
    ```bash
    git clone <repository-link>
-   cd ai-operations-assistant
    ```
 
 2. **Install dependencies**:
